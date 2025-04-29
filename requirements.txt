@@ -1,8 +1,6 @@
 streamlit
-dotenv
+python-dotenv
 openai
 langchain
 requests
 beautifulsoup4
-os
-langchain[all]
