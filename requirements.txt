@@ -4,3 +4,4 @@ openai
 langchain
 requests
 beautifulsoup4
+langchain-google-genai
